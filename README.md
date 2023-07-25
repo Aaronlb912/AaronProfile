@@ -56,5 +56,4 @@ I'm a Software Engineer with over 7 years of experience in innovative software d
 - Oracle Software Development
 - UNIX/Linux Shell Scripts
 
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronlb912&show_icons=true&theme=radical)
 
